@@ -1,0 +1,6 @@
+--extra-index-url https://mirrors.cloud.tencent.com/pypi/simple
+gradio==4.42.0
+backtrader==1.9.78.123
+pandas==2.2.2
+tushare==1.4.8
+matplotlib==3.9.2
